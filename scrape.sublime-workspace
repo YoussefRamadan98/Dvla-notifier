@@ -1,0 +1,867 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"GOO",
+				"GOOGLE_API_KEY"
+			],
+			[
+				"Goo",
+				"GOOGLE_API_KEY"
+			],
+			[
+				"en",
+				"environ"
+			],
+			[
+				"tob",
+				"tobe_updated"
+			],
+			[
+				"get",
+				"get_intents_ids"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"inte",
+				"intent_name"
+			],
+			[
+				"fire",
+				"firefox_webdriver"
+			],
+			[
+				"training_phrases_",
+				"training_phrases_parts"
+			],
+			[
+				"path",
+				"intent_path"
+			],
+			[
+				"tra",
+				"training_phrases"
+			],
+			[
+				"intent",
+				"intent_id"
+			],
+			[
+				"display",
+				"display_name"
+			],
+			[
+				"diplay",
+				"display_name"
+			],
+			[
+				"intents",
+				"intents"
+			],
+			[
+				"STATIC",
+				"STATIC_DIR"
+			],
+			[
+				"messag",
+				"message_texts"
+			],
+			[
+				"training",
+				"training_phrase"
+			],
+			[
+				"traini",
+				"training_phrases"
+			],
+			[
+				"train",
+				"training_phrases_parts"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"dis",
+				"display_name"
+			],
+			[
+				"create",
+				"create_intent"
+			],
+			[
+				"crea",
+				"create_intent"
+			],
+			[
+				"reference",
+				"reference"
+			],
+			[
+				"driving",
+				"driving-licence-submit"
+			],
+			[
+				"test-cent",
+				"test-centres-submit"
+			],
+			[
+				"drii",
+				"driving-licence-submit"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"test",
+				"test"
+			],
+			[
+				"find",
+				"findNearestTestDateAndSendEmail"
+			],
+			[
+				"dri",
+				"driving-licence"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"height",
+				"min-height"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"width",
+				"max-width"
+			],
+			[
+				"eve",
+				"event_time"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"cli",
+				"cli_addr_str"
+			],
+			[
+				"Ecx",
+				"except"
+			],
+			[
+				"stri",
+				"string_directory"
+			],
+			[
+				"req",
+				"request_message"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"recom",
+				"recomdict"
+			],
+			[
+				"no",
+				"noDuplicates"
+			],
+			[
+				"sort",
+				"sortdict"
+			],
+			[
+				"simila",
+				"similarities"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"rand",
+				"randomInt"
+			],
+			[
+				"ra",
+				"randomInt"
+			],
+			[
+				"input",
+				"inputRating"
+			],
+			[
+				"user",
+				"user2"
+			],
+			[
+				"usrin",
+				"userinput"
+			],
+			[
+				"count",
+				"countting"
+			],
+			[
+				"recomme",
+				"recommendations"
+			],
+			[
+				"opt",
+				"optimalmove"
+			],
+			[
+				"optima",
+				"optimalrow"
+			],
+			[
+				"n",
+				"nimsum"
+			],
+			[
+				"r",
+				"randomindex"
+			],
+			[
+				"nim",
+				"nimsum"
+			],
+			[
+				"nisum",
+				"nimsum"
+			],
+			[
+				"optim",
+				"optimal_move"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"ni",
+				"nim_sum"
+			],
+			[
+				"binary",
+				"binary_numeral"
+			],
+			[
+				"excl",
+				"exclusive_or"
+			],
+			[
+				"ex",
+				"exclusive_or"
+			],
+			[
+				"Bin",
+				"binList"
+			],
+			[
+				"bitw",
+				"bitwise_exclusive_or"
+			],
+			[
+				"numer",
+				"numeral_binary"
+			],
+			[
+				"numeral",
+				"numeral"
+			],
+			[
+				"num",
+				"numeral"
+			],
+			[
+				"numera",
+				"numeral"
+			],
+			[
+				"bina",
+				"binary_numeral"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"bin",
+				"binList"
+			],
+			[
+				"Succ",
+				"success"
+			],
+			[
+				"rw",
+				"row-1"
+			],
+			[
+				"new",
+				"new_board"
+			],
+			[
+				"tour",
+				"tourList"
+			],
+			[
+				"distane",
+				"distance"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "testScrape.js",
+			"settings":
+			{
+				"buffer_size": 469,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "var plastiq = require('plastiq');\nvar jquery = require('jquery');\nvar httpism = require('httpism');\nglobal.jQuery = jquery;\nglobal.$ = jquery;\n\nvar h = plastiq.html;\n\nfunction render(model) {\n\n  function getTests() {\n    $(\"#modal\").show();\n    var url = '/scrape/' + model.licenseNumber + '/' + model.theoryPassNumber + '/' + model.postcode;\n    return httpism.get(url).then(response => {\n      model.tests = response.body;\n      $(\"#modal\").hide();\n    }).catch(error => {\n      // TODO: do something to let the user know it failed!\n      $(\"#modal\").hide();\n      alert(error)\n    });\n  }\n\n  return h('div',\n    h('div#modal.hidden',\n       h('img', {src: 'http://loading.io/assets/img/default-loader.gif'})\n    ),\n    h('h1', 'Find the earliest practical driving test date near you'),\n    h('div.input',\n      h('input', {\n        type: 'text',\n        placeholder: \"Your Licence Number\",\n        binding: [model, 'licenseNumber']\n      }),\n      h('div.border-line')\n    ),\n    h('div.input',\n      h('input', {\n        type: 'text',\n        placeholder: \"Your Theory Pass Number\",\n        binding: [model, 'theoryPassNumber']\n      }),\n      h('div.border-line')\n    ),\n    h('div.input',\n      h('input', {\n        type: 'text',\n        placeholder: \"Your Post Code\",\n        binding: [model, 'postcode']\n      }),\n      h('div.border-line')\n    ),\n    h('a.flat-button', {\n      onclick: getTests\n    }, 'find cancellations'),\n    h('ul#tests',\n      model.tests.map(test => {\n        return h('a.test', {\n         href: test.url\n         },\n         h('li.test', test.centre + ' - ' + test.britishDate)\n       )\n      })\n    )\n  );\n}\nvar tests = [\n {\n  \"centre\": \"Worthing\",\n  \"date\": \"2016-03-18T00:00:00.000Z\",\n  \"britishDate\": \"18/03/2016\",\n  \"url\": \"https://driverpracticaltest.direct.gov.uk/manage?execution=e1s2&csrftoken=e3QY6ydCfgYK6YsaUvhdveVFsncpyIlF&_eventId=proceed&centreID=149\"\n },\n {\n  \"centre\": \"Eastbourne\",\n  \"date\": \"2016-03-18T00:00:00.000Z\",\n  \"britishDate\": \"18/03/2016\",\n  \"url\": \"https://driverpracticaltest.direct.gov.uk/manage?execution=e1s2&csrftoken=e3QY6ydCfgYK6YsaUvhdveVFsncpyIlF&_eventId=proceed&centreID=108\"\n },\n {\n  \"centre\": \"Winchester\",\n  \"date\": \"2016-03-18T00:00:00.000Z\",\n  \"britishDate\": \"18/03/2016\",\n  \"url\": \"https://driverpracticaltest.direct.gov.uk/manage?execution=e1s2&csrftoken=e3QY6ydCfgYK6YsaUvhdveVFsncpyIlF&_eventId=proceed&centreID=434\"\n },\n {\n  \"centre\": \"Mitcham (London)\",\n  \"date\": \"2016-03-19T00:00:00.000Z\",\n  \"britishDate\": \"19/03/2016\",\n  \"url\": \"https://driverpracticaltest.direct.gov.uk/manage?execution=e1s2&csrftoken=e3QY6ydCfgYK6YsaUvhdveVFsncpyIlF&_eventId=proceed&centreID=1942\"\n },\n {\n  \"centre\": \"Reigate\",\n  \"date\": \"2016-03-21T00:00:00.000Z\",\n  \"britishDate\": \"21/03/2016\",\n  \"url\": \"https://driverpracticaltest.direct.gov.uk/manage?execution=e1s2&csrftoken=e3QY6ydCfgYK6YsaUvhdveVFsncpyIlF&_eventId=proceed&centreID=132\"\n }\n]\n\nvar model = {\n  name: '',\n  licenseNumber: \"ENTER YOUR LICENCE\",\n  theoryPassNumber: \"ENTER YOUR THEORY PASS NUMBER\",\n  postcode: \"ENTER YOUR POSTCODE\",\n  tests: tests\n};\n\nwindow.model = model;\n\nplastiq.append(document.body, render, model);\n",
+			"file": "index.js",
+			"file_size": 3262,
+			"file_write_time": 132255631395449754,
+			"settings":
+			{
+				"buffer_size": 3152,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scrape.js",
+			"settings":
+			{
+				"buffer_size": 5207,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "var express = require('express');\nvar sass = require('node-sass');\nvar sassMiddleware = require('node-sass-middleware');\nvar path = require('path');\nvar app = express();\nvar morgan = require('morgan');\nvar webdriver = require('selenium-webdriver'),\n  By = require('selenium-webdriver').By,\n  until = require('selenium-webdriver').until,\n  chrome = require('phantomjs');\n\nvar webDriver = new webdriver.Builder()\n  .forBrowser('phantomjs')\n  .build();\n\nvar scrape = require('./scrape');\nvar webdriver = require('selenium-webdriver'),\n  until = require('selenium-webdriver').until,\n  chrome = require('phantomjs');\n\nvar driver = new webdriver.Builder()\n  .forBrowser('phantomjs')\n  .build();\nvar jsonfile = require('jsonfile');\nvar writeToPath = __dirname + '/dates.json';\n\napp.use(sassMiddleware({\n    src: __dirname,\n    dest: path.join(__dirname, ''),\n    debug: true,\n    outputStyle: 'compressed',\n    prefix:  '/'\n}));\napp.use(morgan('combined'))\napp.use(express.static(path.join(__dirname, '')));\n\napp.get('/', function(req, res) {\n res.sendFile(path.join(__dirname + '/index.html'));\n});\n\nvar licenseNumber =  \"ENTER YOUR LICENSE NUMBER\";\nvar theoryPassNumber = \"ENTER YOUR THEORY PASS NUMBER\";\nvar postcode = \"ENTER POSTCODE HERE\";\n\napp.get('/scrape/:licenseNumber/:theoryPassNumber/:location', function(req, res) {\n  scrape(webDriver, req.params.licenseNumber, req.params.theoryPassNumber, req.params.location).then(function(data) {\n    res.send(200,data);\n  });\n});\napp.listen(4321);\n",
+			"file": "server.js",
+			"file_size": 1542,
+			"file_write_time": 132409235434676421,
+			"settings":
+			{
+				"buffer_size": 1492,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "  File \"E:\\University Of Glasgow\\Computer Science\\Independent Projects\\dvla-scraper\\testScrape.js\", line 1\n    var scrape = require('./scrape');\n             ^\nSyntaxError: invalid syntax\n[Finished in 0.4s with exit code 1]\n[shell_cmd: \"python\" -u \"E:\\University Of Glasgow\\Computer Science\\Independent Projects\\dvla-scraper\\testScrape.js\"]\n[dir: E:\\University Of Glasgow\\Computer Science\\Independent Projects\\dvla-scraper]\n",
+			"settings":
+			{
+				"buffer_size": 424,
+				"line_ending": "Windows",
+				"name": "Build output",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 552.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 714.0
+	},
+	"console":
+	{
+		"height": 277.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/E/University Of Glasgow/Computer Science/Independent Projects/dvla-scraper/bundle.js",
+		"/E/University Of Glasgow/Computer Science/Independent Projects/SEAN.json",
+		"/E/University Of Glasgow/Computer Science/Independent Projects/dvla-scraper/package.json",
+		"/E/University Of Glasgow/Computer Science/Independent Projects/dvla-scraper/dates.json",
+		"/E/University Of Glasgow/Computer Science/Independent Projects/package-lock.json",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/webapp/sean/urls.py",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/webapp/templates/sean/listintents.html",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/webapp/sean/views.py",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/webapp/templates/sean/updateintent.html",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/webapp/adminpanel/urls.py",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/webapp/templates/sean/viewintent.html",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/webapp/adminpanel/settings.py",
+		"/E/University Of Glasgow/Computer Science/Independent Projects/node_modules/tiktok-scraper/build/index.js",
+		"/E/University Of Glasgow/Computer Science/Independent Projects/node_modules/tiktok-scraper/package.json",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/webapp/sean/tests.py",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/webapp/SEAN.json",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/.gitignore",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/requirements.txt",
+		"/E/University Of Glasgow/Computer Science/Independent Projects/node_modules/tiktok-scraper/build/core/TikTok.js",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/webapp/templates/sean/createintent.html",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/adminpanel/templates/sean/createintent.html",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/webapp/templates/sean/deleteintent.html",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/webapp/sean/forms.py",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/webapp/templates/sean/deleteintent",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/Procfile",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/adminpanel/sean/urls.py",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/adminpanel/sean/forms.py",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/adminpanel/manage.py",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/adminpanel/sean/views.py",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/adminpanel/sean/tests.py",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/adminpanel/adminpanel/settings.py",
+		"/C/Users/Youssef/Anaconda3/Lib/unittest/loader.py",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/adminpanel/adminpanel/urls.py",
+		"/E/University Of Glasgow/Computer Science/Independent Projects/dvla-scraper/test_intent_creation.py",
+		"/C/Users/Youssef/Downloads/SEAN.json",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/test_intent_creation.py",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/chatbot/manage.py",
+		"/E/University Of Glasgow/Computer Science/Team Project/csp1-main/chatbot/chatbot/settings.py",
+		"/E/University Of Glasgow/Computer Science/Independent Projects/dvla-scraper/scrape.js",
+		"/E/University Of Glasgow/Computer Science/Independent Projects/dvla-scraper/testScrape.js",
+		"/E/University Of Glasgow/Computer Science/Independent Projects/dvla-scraper/main.scss",
+		"/E/University Of Glasgow/Computer Science/WAD2/Workspace/Tailored/README.md",
+		"/E/University Of Glasgow/Computer Science/Java Programming 2/Lab Exam/src/test/TestPlayer.java",
+		"/E/University Of Glasgow/Computer Science/Java Programming 2/Lab Exam/src/superhero/Player.java",
+		"/E/University Of Glasgow/Computer Science/WAD2/Workspace/tailored_project/templates/tailored/css/util.css",
+		"/C/Program Files (x86)/DVSA Car Theory Test DVD/script/jquery.cycle.min.js",
+		"/E/University Of Glasgow/Computer Science/WAD2/Workspace/tailored_project/templates/tailored/css/responsive.css",
+		"/E/University Of Glasgow/Computer Science/WAD2/Workspace/tailored_project/templates/tailored/css/profile.css",
+		"/E/University Of Glasgow/Computer Science/WAD2/Workspace/tailored_project/templates/tailored/css/main.css",
+		"/E/University Of Glasgow/Computer Science/WAD2/Workspace/tailored_project/templates/tailored/css/core-style.css",
+		"/E/University Of Glasgow/Computer Science/WAD2/Workspace/tailored_project/templates/tailored/css/signup_main.css",
+		"/E/University Of Glasgow/Computer Science/WAD2/Workspace/tailored_project/templates/tailored/js/active.js",
+		"/E/University Of Glasgow/Computer Science/WAD2/Workspace/tailored_project/templates/tailored/js/main.js",
+		"/E/University Of Glasgow/Computer Science/Java Programming 2/LabExam/src/superhero/Player.java",
+		"/E/University Of Glasgow/Computer Science/CS1F/4_experimental_analysis_submission.ipynb",
+		"/E/University Of Glasgow/Computer Science/WAD2/Workspace/tailored_project/templates/tailored/base_bootstrap.html",
+		"/E/University Of Glasgow/Computer Science/WAD2/Workspace/tailored_project/static/tailored/js/active.js",
+		"/E/University Of Glasgow/Computer Science/WAD2/Workspace/tailored_project/static/tailored/js/plugins.js",
+		"/E/University Of Glasgow/Computer Science/Java Programming 2/Lab Exam/src/superhero/GameCharacter.java",
+		"/E/University Of Glasgow/Computer Science/Java Programming 2/Lab Exam/src/superhero/Power.java",
+		"/E/University Of Glasgow/Computer Science/WAD2/rango_tests/rango_tests/output/Youssef/results.json",
+		"/E/University Of Glasgow/Computer Science/WAD2/Workspace/tango_with_django_project/db.sqlite3",
+		"/C/Users/Youssef/AppData/Roaming/iMazing/Temp/c97797b0f3f6a50243fa254e50d79a934698b220-BACKUP/1531811761722",
+		"/E/University Of Glasgow/Computer Science/Java Programming 2/Lab Exam/src/test/TestGameCharacter.java",
+		"/E/University Of Glasgow/Computer Science/NOSE 2/Assessed exercise 2/schedulers.py",
+		"/E/Documents/University Of Glasgow/Computer Science/NOSE 2/Assessed Exercise/Client/request.py",
+		"/E/Documents/University Of Glasgow/Computer Science/NOSE 2/Assessed Exercise/Client/client.py",
+		"/E/Documents/University Of Glasgow/Computer Science/NOSE 2/Assessed Exercise/Server/server.py",
+		"/E/Documents/University Of Glasgow/Computer Science/NOSE 2/Assessed Exercise/Assessed exercise/Server/server.py",
+		"/E/Documents/University Of Glasgow/Computer Science/Python/Lab Exam 1PX/Final CODE.py",
+		"/C/Users/Youssef/AppData/Local/Temp/Temp1_Unit_14_Solutions.zip/task3.py",
+		"/C/Users/Youssef/AppData/Local/Temp/Temp1_Unit_14_Solutions.zip/task2.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Lab Exam 1PX/Final CODE.py",
+		"/C/Users/Youssef/AppData/Local/Temp/Temp1_Unit_14_Solutions.zip/task4.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Lab Exam 1PX/recommendations.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Lab Exam 1PX/recommendations old.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Lab Exam 1PX/1PXLabExam- Nicholas",
+		"/C/Users/Youssef/Downloads/1PXLabExam- Nicholas",
+		"/C/Users/Youssef/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Youssef/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Youssef/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.last-run",
+		"/C/Users/Youssef/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Youssef/AppData/Roaming/Sublime Text 3/Packages/PackageResourceViewer/PackageResourceViewer.sublime-settings",
+		"/C/Users/Youssef/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/C/Users/Youssef/AppData/Roaming/Sublime Text 3/Packages/User/PackageResourceViewer.sublime-settings",
+		"/C/Users/Youssef/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.python.sublime-build",
+		"/C/Users/Youssef/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Unit 17 Lab files/optimal_move.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Unit 17 Lab files/ui.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Unit 17 Lab files/working_game.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Sigma 16/Sigma16-2.3.57/Sigma16-2.3.57/src/haskell/Emulator.hs",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Unit 17 Lab files/nim_sum.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Unit 17 Lab files/make_move.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Unit 17 Lab files/bitwise_xor.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Unit 17 Lab files/bin_num.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Unit 17 Lab files/exclusive_or.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Unit 17 Lab files/present_board.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Scraping trial.py",
+		"/C/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/Unit 16 Lab.py",
+		"/C/Users/Youssef/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+		"/C/Users/Youssef/Downloads/skeleton.py",
+		"//DESKTOP-V7N0JS0/Users/Youssef/Documents/Youssef's/University Of Glasgow/Computer Science - Univesity Of Glasgow/Python/indexer - final.py",
+		"/C/Users/Youssef/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Python3.sublime-build",
+		"/C/Users/Youssef/Documents/test.py",
+		"/C/Users/Youssef/Documents/print(hi)"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"intents_client ",
+			"intents_c",
+			"delete_",
+			"cls",
+			"debug",
+			"create",
+			"list_intent",
+			"view_intent",
+			"test_update",
+			"create",
+			"reference",
+			"theory",
+			"while"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "testScrape.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scrape.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4770,
+								4770
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1988.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1491,
+								1491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 489.333333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								424,
+								424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 85.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "scrape.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

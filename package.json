@@ -12,7 +12,7 @@
     "cheerio": "0.20.0",
     "express": "4.13.4",
     "httpism": "1.11.0",
-    "jquery": "^2.2.1",
+    "jquery": "^3.5.0",
     "jsonfile": "^2.2.3",
     "moment": "2.12.0",
     "morgan": "^1.7.0",
